@@ -1,0 +1,167 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    /* background-color: #F0F2F5; */
+}
+
+.container-fluid {
+    margin-bottom: 120px;
+    /* width: 900px; */
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #f0f2f5 !important;
+    height: 500px;
+    padding: 30px 0px;
+    background-color: gray;
+}
+
+.box-1 {
+    padding: 20px 0px;
+    margin: 0px auto;
+    width: 415px;
+    text-align: center;
+    /* border: 2px solid yellow; */
+    box-shadow: 0px 0px 4px 0px #737373;
+    border-radius: 5px;
+    background-color: white;
+    height: 350px;
+}
+
+.head {
+
+    text-align: center;
+    font-size: 20px;
+    /* margin: 15px 0px 0px 0px; */
+}
+
+h1 {
+    color: #1877f2;
+}
+
+.face {
+    font-family: 'Poppins';
+    font-size: 42px;
+    font-weight: 900;
+    margin: 0px 0px 20px 643px;
+}
+
+.line {
+    margin-top: 20px;
+}
+
+.lang a {
+
+    font-size: 11px;
+    text-decoration: none;
+    color: #737373;
+}
+
+.info a {
+    font-size: 11px;
+    line-height: 2px;
+    text-decoration: none;
+    color: #737373;
+}
+
+.info a:hover {
+    text-decoration: underline;
+    color: #737373;
+}
+
+.lang a:hover {
+    text-decoration: underline;
+    color: #737373;
+}
+
+.mail {
+    /* border-radius: 5px; */
+    margin: 15px 0px;
+
+}
+
+.pass {
+    margin-bottom: 5px;
+}
+
+.mail input {
+    border: 2px solid #f0f2f5;
+    border-radius: 6px;
+    padding: 10px 80px;
+}
+
+
+
+.pass input {
+    border: 2px solid #f0f2f5;
+    border-radius: 6px;
+    padding: 10px 80px;
+}
+
+#key {
+    margin: 10px 0px;
+    padding: 11px 131px;
+}
+
+.hor {
+    margin: 0px auto;
+    width: 1000px;
+}
+
+.lang {
+    word-spacing: 15px;
+    margin: 0px 261px;
+}
+
+.info {
+    word-spacing: 15px;
+    margin: 0px 261px;
+}
+
+hr {
+    margin: 0px 0px !important;
+}
+
+.meta {
+    color: #737373;
+    font-size: 12px;
+    margin: 5px 0px 0px 261px;
+}
+
+.forgot a {
+    text-decoration: none;
+}
+
+.forgot {
+    display: flex;
+    margin: 10px 0px 0px 55px;
+}
+
+.forget {
+   
+    width: 77%;
+}
+
+.sign {
+    width: 77%;
+}
+
+.footer {
+    /* margin-top:20px; */
+    position: relative;
+    bottom: 0;
+    left: 0;
+
+}
+
+
+.body input {
+    padding: 15px;
+    width: 90%;
+}
+
+#but-1 {
+    padding: 0px 10px;
+    color: black;
+    background: #F5F6F7;
+}
